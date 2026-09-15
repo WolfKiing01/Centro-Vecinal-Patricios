@@ -1,0 +1,89 @@
+[
+  {
+    "gallery": "/frente-centro-vecinal.jpeg",
+    "count": 3,
+    "images": [
+      "/frente-centro-vecinal.jpeg",
+      "/centro-esquina.jpeg",
+      "/centro-lateral.jpeg"
+    ]
+  },
+  {
+    "gallery": "/tejido-clase.jpeg",
+    "count": 5,
+    "images": [
+      "/tejido-clase.jpeg",
+      "/tejido-conjunto.jpeg",
+      "/tejido-prenda.jpeg",
+      "/tejido-telar.jpeg",
+      "/taller-tejido-flyer.jpeg"
+    ]
+  },
+  {
+    "gallery": "/maquillaje-01.jpeg",
+    "count": 6,
+    "images": [
+      "/maquillaje-01.jpeg",
+      "/maquillaje-02.jpeg",
+      "/maquillaje-05.jpeg",
+      "/maquillaje-06.jpeg",
+      "/maquillaje-03.jpeg",
+      "/maquillaje-04.jpeg"
+    ]
+  },
+  {
+    "gallery": "/infantil-creatividad.jpeg",
+    "count": 6,
+    "images": [
+      "/infantil-creatividad.jpeg",
+      "/infantil-pintura.jpeg",
+      "/infantil-arte.jpeg",
+      "/luz-naranja-flyer.jpeg",
+      "/infantil-cocina.jpeg",
+      "/infantil-materiales.jpeg"
+    ]
+  },
+  {
+    "gallery": "/baile-fitness-grupo.jpeg",
+    "count": 6,
+    "images": [
+      "/baile-fitness-grupo.jpeg",
+      "/baile-fitness-clase.jpeg",
+      "/baile-fitness-encuentro.jpeg",
+      "/baile-fitness-04.jpeg",
+      "/baile-fitness-05.jpeg",
+      "/baile-fitness-06.jpeg"
+    ]
+  },
+  {
+    "gallery": "/taekwondo-priscila-flyer.jpeg",
+    "count": 1,
+    "images": [
+      "/taekwondo-priscila-flyer.jpeg"
+    ]
+  },
+  {
+    "gallery": "/folclore-grupo.jpeg",
+    "count": 5,
+    "images": [
+      "/folclore-grupo.jpeg",
+      "/folclore-encuentro.jpeg",
+      "/folclore-escenario.jpeg",
+      "/folclore-04.jpeg",
+      "/folclore-collage.jpeg"
+    ]
+  },
+  {
+    "gallery": "salon",
+    "count": 7,
+    "images": [
+      "assets/salon-mesas.jpeg",
+      "assets/salon-iluminacion.jpeg",
+      "assets/salon-asador.jpeg",
+      "assets/salon-cocina.jpeg",
+      "assets/salon-freezer.jpeg",
+      "assets/salon-flyer.jpeg",
+      "assets/salon-evento.png"
+    ]
+  }
+]
