@@ -16,3 +16,6 @@ Los enlaces de WhatsApp abren el chat con un mensaje preparado: el visitante deb
 Verificados enlaces y recursos locales de las 15 páginas. JavaScript sin errores de sintaxis. Prueba en Chromium con archivo local: carrusel del salón (7 imágenes), visor ampliado, flechas del teclado, cierre con Escape y recorte de maquillaje en tarjeta y visor. Inicio sin desborde horizontal a 390 px.
 
 Favicon del logo original en ICO y PNG: rutas comprobadas en las 15 páginas. Flyer de tejido: encuadre verificado en tarjeta y visor ampliado con Chromium, sin franjas negras.
+
+## 16/09/2026
+Verificados recursos y enlaces locales, retiro del contacto personal del código y eliminación de Zumba. Pruebas Chromium a 390 px: inicio, talleres, Danza Kids, Taichí y cuatro fichas de salud sin desborde horizontal ni errores JavaScript. Visor P.I.E.S. recortado; configuración de enlace Google Forms y carga de noticias probadas con datos temporales. No se probó un envío real a Google Forms: falta crear y publicar el formulario desde su cuenta.

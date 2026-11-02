@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
+<title id="title">Novedades del barrio</title><desc id="desc">Vecinos consultando una cartelera comunitaria en un entorno barrial.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#f9f5e9"/><stop offset="1" stop-color="#e7f0ea"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#0b3156" flood-opacity=".16"/></filter>
+</defs>
+<rect width="1600" height="720" rx="36" fill="url(#sky)"/>
+<!-- distant neighborhood -->
+<g opacity=".92">
+  <rect x="0" y="356" width="1600" height="364" fill="#dce9dc"/>
+  <g fill="#fff8e8" stroke="#cfd9cd" stroke-width="4"><path d="M40 470h260V286l130-80 130 80v184z"/><path d="M1130 470h320V260l160 95v115z"/><path d="M855 470h240V325l120-70 90 70v145z"/></g>
+  <g fill="#315f76"><rect x="120" y="348" width="55" height="122" rx="6"/><rect x="355" y="332" width="58" height="70" rx="4"/><rect x="930" y="366" width="50" height="104" rx="4"/><rect x="1282" y="342" width="58" height="128" rx="5"/></g>
+  <g fill="#e3a04d"><rect x="203" y="342" width="48" height="56" rx="3"/><rect x="1040" y="350" width="43" height="55" rx="3"/><rect x="1365" y="324" width="44" height="56" rx="3"/></g>
+</g>
+<!-- trees -->
+<g fill="#2e6b59"><circle cx="95" cy="188" r="95"/><circle cx="186" cy="152" r="115"/><circle cx="1490" cy="185" r="105"/><circle cx="1408" cy="155" r="92"/></g>
+<g fill="#668b5a"><circle cx="266" cy="235" r="72"/><circle cx="1320" cy="228" r="76"/></g>
+<g stroke="#31554c" stroke-width="22" stroke-linecap="round"><path d="M124 170v332"/><path d="M1458 160v340"/></g>
+<!-- board -->
+<g filter="url(#shadow)">
+  <rect x="390" y="126" width="730" height="390" rx="28" fill="#143b64"/>
+  <path d="M475 126c58-92 158-82 208 0h144c52-87 151-94 208 0z" fill="#143b64"/>
+  <rect x="426" y="170" width="658" height="307" rx="14" fill="#ddbd84"/>
+  <rect x="450" y="194" width="610" height="259" rx="8" fill="#f6efd9"/>
+  <g><rect x="482" y="223" width="150" height="92" rx="5" fill="#fffaf0"/><rect x="658" y="213" width="125" height="126" rx="5" fill="#75b3b2"/><rect x="808" y="221" width="215" height="95" rx="5" fill="#f1bf3c"/><rect x="500" y="340" width="176" height="84" rx="5" fill="#e9a889"/><rect x="704" y="357" width="138" height="68" rx="5" fill="#fffaf0"/><rect x="866" y="340" width="145" height="83" rx="5" fill="#e7c995"/></g>
+  <g fill="#173e65"><circle cx="550" cy="220" r="8"/><circle cx="716" cy="211" r="8"/><circle cx="906" cy="219" r="8"/><circle cx="588" cy="338" r="8"/></g>
+  <!-- megaphone -->
+  <g transform="translate(700 68)" fill="#f1b437"><path d="M0 45l74-33v66z"/><rect x="-28" y="34" width="38" height="22" rx="10"/><path d="M9 55l18 47h31L39 49z"/></g>
+</g>
+<!-- people -->
+<g stroke="#163653" stroke-width="5" stroke-linejoin="round">
+  <g transform="translate(255 375)"><circle cx="50" cy="0" r="39" fill="#d6a07d"/><path d="M16-25c5-50 72-57 83-11-16-12-35-13-51-5z" fill="#b5c3c8"/><path d="M0 52c35-30 89-28 118 10l-7 170H-12z" fill="#173e65"/></g>
+  <g transform="translate(430 402)"><circle cx="47" cy="0" r="38" fill="#d7a17d"/><path d="M10-22c8-48 79-54 86-8-22-15-46-14-66-3z" fill="#b9c6c8"/><path d="M0 48c37-33 92-25 118 15l-3 154H-8z" fill="#d46f5d"/></g>
+  <g transform="translate(826 406)"><circle cx="48" cy="0" r="37" fill="#c9855d"/><path d="M8-28c24-46 94-34 91 15-20-12-50-12-77-2z" fill="#122f4c"/><path d="M1 48c36-27 93-26 119 12l-2 166H-9z" fill="#2d6961"/></g>
+  <g transform="translate(646 430)"><circle cx="46" cy="0" r="35" fill="#d7976c"/><path d="M8-27c12-44 80-50 85-6-14-8-49-17-74 3z" fill="#132f4c"/><path d="M-8 45c34-34 90-38 119-3l11 177H-9z" fill="#e3a837"/><path d="M87 54l44-66" fill="none"/><circle cx="133" cy="-15" r="9" fill="#d7976c"/></g>
+</g>
+<!-- small dog -->
+<g transform="translate(205 570)" stroke="#7d5224" stroke-width="5"><ellipse cx="65" cy="75" rx="52" ry="44" fill="#dca53c"/><circle cx="84" cy="34" r="36" fill="#dca53c"/><path d="M63 10l-25-24 7 43M104 8l26-18-6 42" fill="#b97a2e"/><circle cx="96" cy="31" r="4" fill="#122f4c"/></g>
+<!-- label -->
+<g transform="translate(70 60)"><rect width="390" height="64" rx="32" fill="#fff" opacity=".94"/><circle cx="38" cy="32" r="9" fill="#e7a629"/><text x="65" y="41" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#143b64">Novedades de la comunidad</text></g>
+</svg>

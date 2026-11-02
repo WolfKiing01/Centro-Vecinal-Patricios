@@ -58,6 +58,7 @@ document.querySelectorAll('[data-gallery]').forEach(element => {
       if (viewer.open && activeGallery === this) updateViewer();
     }
   };
+  if (gallery.slides.length < 2) element.querySelectorAll('[data-prev],[data-next]').forEach(button => { button.hidden = true; });
   element.querySelector('[data-prev]')?.addEventListener('click', () => gallery.move(-1));
   element.querySelector('[data-next]')?.addEventListener('click', () => gallery.move(1));
   element.addEventListener('keydown', e => {

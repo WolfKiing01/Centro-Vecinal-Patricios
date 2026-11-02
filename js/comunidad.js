@@ -1,0 +1,6 @@
+const cfg = window.PATRICIOS || {};
+try { const url = new URL(cfg.googleFormUrl); if(url.protocol === 'https:' && (url.hostname === 'forms.gle' || (url.hostname === 'docs.google.com' && url.pathname.startsWith('/forms/')))) { const a=document.querySelector('#form-link');a.href=url.href;a.hidden=false;document.querySelector('#form-status').textContent='Completá el formulario para que la comisión reciba tu reclamo. Tus respuestas no se publican en la web.'; } } catch {}
+const list=document.querySelector('#news-list');
+const now=new Date(); const today=[now.getFullYear(),String(now.getMonth()+1).padStart(2,'0'),String(now.getDate()).padStart(2,'0')].join('-');
+const news=(cfg.noticias||[]).filter(n=>n.titulo && n.fecha && (!n.vence||n.vence>=today));
+if(list && news.length){list.firstElementChild.remove();news.sort((a,b)=>b.fecha.localeCompare(a.fecha)).forEach(n=>{const card=document.createElement('article');card.className='news-card';const box=document.createElement('div');for(const [tag,text] of [['small',n.fecha],['h3',n.titulo],['p',n.texto]]){const e=document.createElement(tag);e.textContent=text;box.append(e);}try{const url=new URL(n.fuente);if(url.protocol==='https:'){const a=document.createElement('a');a.href=url.href;a.target='_blank';a.rel='noreferrer';a.textContent='Ver fuente →';box.append(a);}}catch{}card.append(box);list.append(card);});}

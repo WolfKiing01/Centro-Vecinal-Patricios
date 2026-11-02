@@ -1,89 +1,157 @@
 [
   {
-    "gallery": "/frente-centro-vecinal.jpeg",
-    "count": 3,
+    "page": "index.html",
     "images": [
-      "/frente-centro-vecinal.jpeg",
-      "/centro-esquina.jpeg",
-      "/centro-lateral.jpeg"
-    ]
+      "assets/frente-centro-vecinal.jpeg",
+      "assets/centro-esquina.jpeg",
+      "assets/centro-lateral.jpeg"
+    ],
+    "count": 3
   },
   {
-    "gallery": "/tejido-clase.jpeg",
-    "count": 5,
-    "images": [
-      "/tejido-clase.jpeg",
-      "/tejido-conjunto.jpeg",
-      "/tejido-prenda.jpeg",
-      "/tejido-telar.jpeg",
-      "/taller-tejido-flyer.jpeg"
-    ]
-  },
-  {
-    "gallery": "/maquillaje-01.jpeg",
-    "count": 6,
-    "images": [
-      "/maquillaje-01.jpeg",
-      "/maquillaje-02.jpeg",
-      "/maquillaje-05.jpeg",
-      "/maquillaje-06.jpeg",
-      "/maquillaje-03.jpeg",
-      "/maquillaje-04.jpeg"
-    ]
-  },
-  {
-    "gallery": "/infantil-creatividad.jpeg",
-    "count": 6,
-    "images": [
-      "/infantil-creatividad.jpeg",
-      "/infantil-pintura.jpeg",
-      "/infantil-arte.jpeg",
-      "/luz-naranja-flyer.jpeg",
-      "/infantil-cocina.jpeg",
-      "/infantil-materiales.jpeg"
-    ]
-  },
-  {
-    "gallery": "/baile-fitness-grupo.jpeg",
-    "count": 6,
-    "images": [
-      "/baile-fitness-grupo.jpeg",
-      "/baile-fitness-clase.jpeg",
-      "/baile-fitness-encuentro.jpeg",
-      "/baile-fitness-04.jpeg",
-      "/baile-fitness-05.jpeg",
-      "/baile-fitness-06.jpeg"
-    ]
-  },
-  {
-    "gallery": "/taekwondo-priscila-flyer.jpeg",
-    "count": 1,
-    "images": [
-      "/taekwondo-priscila-flyer.jpeg"
-    ]
-  },
-  {
-    "gallery": "/folclore-grupo.jpeg",
-    "count": 5,
-    "images": [
-      "/folclore-grupo.jpeg",
-      "/folclore-encuentro.jpeg",
-      "/folclore-escenario.jpeg",
-      "/folclore-04.jpeg",
-      "/folclore-collage.jpeg"
-    ]
-  },
-  {
-    "gallery": "salon",
-    "count": 7,
+    "page": "index.html",
     "images": [
       "assets/salon-mesas.jpeg",
       "assets/salon-iluminacion.jpeg",
       "assets/salon-asador.jpeg",
       "assets/salon-cocina.jpeg",
       "assets/salon-freezer.jpeg",
-      "assets/salon-flyer.jpeg",
-      "assets/salon-evento.png"
-    ]
+      "assets/salon-flyer.jpeg"
+    ],
+    "count": 7
+  },
+  {
+    "page": "talleres.html",
+    "images": [
+      "assets/tejido-clase.jpeg",
+      "assets/tejido-conjunto.jpeg",
+      "assets/tejido-prenda.jpeg",
+      "assets/tejido-telar.jpeg",
+      "assets/taller-tejido-flyer.jpeg"
+    ],
+    "count": 5
+  },
+  {
+    "page": "talleres.html",
+    "images": [
+      "assets/unas-maquillaje-nueva-01.jpeg",
+      "assets/maquillaje-nueva-02.jpeg",
+      "assets/maquillaje-nueva-03.jpeg",
+      "assets/maquillaje-01.jpeg",
+      "assets/maquillaje-02.jpeg",
+      "assets/maquillaje-05.jpeg",
+      "assets/maquillaje-06.jpeg",
+      "assets/maquillaje-03.jpeg",
+      "assets/maquillaje-04.jpeg"
+    ],
+    "count": 9
+  },
+  {
+    "page": "talleres.html",
+    "images": [
+      "assets/pintura-01.jpeg",
+      "assets/pintura-02.jpeg",
+      "assets/pintura-03.jpeg",
+      "assets/pintura-04.jpeg",
+      "assets/pintura-05.jpeg",
+      "assets/pintura-06.jpeg"
+    ],
+    "count": 6
+  },
+  {
+    "page": "talleres.html",
+    "images": [
+      "assets/infantil-creatividad.jpeg",
+      "assets/infantil-pintura.jpeg",
+      "assets/infantil-arte.jpeg",
+      "assets/luz-naranja-flyer.jpeg",
+      "assets/infantil-cocina.jpeg",
+      "assets/infantil-materiales.jpeg"
+    ],
+    "count": 6
+  },
+  {
+    "page": "actividades/folclore.html",
+    "images": [
+      "../assets/folclore-grupo.jpeg",
+      "../assets/folclore-encuentro.jpeg",
+      "../assets/folclore-escenario.jpeg",
+      "../assets/folclore-04.jpeg",
+      "../assets/folclore-collage.jpeg",
+      "../assets/folclore-flyer.jpeg"
+    ],
+    "count": 6
+  },
+  {
+    "page": "actividades/baile-fitness.html",
+    "images": [
+      "../assets/baile-fitness-grupo.jpeg",
+      "../assets/baile-fitness-clase.jpeg",
+      "../assets/baile-fitness-encuentro.jpeg",
+      "../assets/baile-fitness-04.jpeg",
+      "../assets/baile-fitness-05.jpeg",
+      "../assets/baile-fitness-06.jpeg"
+    ],
+    "count": 6
+  },
+  {
+    "page": "actividades/taichi.html",
+    "images": [
+      "../assets/taichi-flyer.jpeg"
+    ],
+    "count": 1
+  },
+  {
+    "page": "actividades/taekwondo.html",
+    "images": [
+      "../assets/taekwondo-priscila-flyer.jpeg"
+    ],
+    "count": 1
+  },
+  {
+    "page": "actividades/taller-de-ritmos.html",
+    "images": [
+      "../assets/danza-kids-flyer.jpeg"
+    ],
+    "count": 1
+  },
+  {
+    "page": "salud/asociacion-pies.html",
+    "images": [
+      "../assets/pies-flyer.jpeg"
+    ],
+    "count": 1
+  },
+  {
+    "page": "salud/psicologia.html",
+    "images": [
+      "../assets/psicologia-flyer.jpeg"
+    ],
+    "count": 1
+  },
+  {
+    "page": "salud/acupuntura.html",
+    "images": [
+      "../assets/acupuntura-flyer.jpeg"
+    ],
+    "count": 1
+  },
+  {
+    "page": "salud/belleza-de-pies.html",
+    "images": [
+      "../assets/pedicuria-flyer.jpeg"
+    ],
+    "count": 1
+  },
+  {
+    "page": "talleres.html",
+    "images": [
+      "assets/dibujo/dibujo-01.jpeg",
+      "assets/dibujo/dibujo-02.jpeg",
+      "assets/dibujo/dibujo-03.jpeg",
+      "assets/dibujo/dibujo-04.jpeg",
+      "assets/dibujo/dibujo-05.jpeg"
+    ],
+    "count": 5
   }
 ]

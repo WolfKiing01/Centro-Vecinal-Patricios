@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-filter]').forEach(button => { button.addEventListener('click', () => { const key=button.dataset.filter; document.querySelectorAll('[data-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b===button))); document.querySelectorAll('[data-category]').forEach(card=>{card.hidden=key!=='todos'&&card.dataset.category!==key;}); }); });
