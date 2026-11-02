@@ -4,7 +4,7 @@ Sitio institucional del Centro Vecinal Patricios, desarrollado en HTML, CSS y Ja
 
 ## Estado de la entrega — 2 de noviembre de 2026
 
-El desarrollo y la entrega del sitio están finalizados. El dominio ya fue configurado por el responsable del proyecto, quien queda a disposición de la comisión para realizar modificaciones, actualizar contenidos o incorporar ajustes que soliciten.
+El desarrollo y la entrega del sitio están finalizados. El dominio [centrovecinalpatricios.com.ar](https://centrovecinalpatricios.com.ar) ya fue configurado por el responsable del proyecto, quien queda a disposición de la comisión para realizar modificaciones, actualizar contenidos o incorporar ajustes que soliciten.
 
 Esta versión incorpora los cambios locales de septiembre y octubre de 2026. Las notas de pendientes y validación conservan el historial de trabajo; cualquier dato aún por confirmar o mejora futura queda sujeto a lo que indique la comisión.
 
@@ -78,7 +78,7 @@ Podés subir **todo el contenido** de esta carpeta a un alojamiento para sitios 
 
 Para GitHub, creá tu repositorio y subí el contenido completo. Esta carpeta incluye `.gitignore` para excluir archivos temporales. No contiene credenciales ni dependencias del entorno de desarrollo original. Los teléfonos incluidos son los contactos públicos proporcionados para la web del centro.
 
-El dominio ya fue configurado, según lo informado por el responsable del proyecto. La dirección pública y los datos del alojamiento pueden incorporarse a esta documentación cuando estén disponibles. Actualizar este repositorio no garantiza la actualización del alojamiento si no existe un despliegue automático configurado.
+El dominio del sitio es [centrovecinalpatricios.com.ar](https://centrovecinalpatricios.com.ar), configurado por el responsable del proyecto. Actualizar este repositorio no garantiza la actualización del alojamiento si no existe un despliegue automático configurado.
 
 Las fotos de maquillaje conservan los archivos originales. El atributo data-crop y js/main.js ajustan el encuadre visible para ocultar las franjas de las capturas, también en el visor ampliado.
 
